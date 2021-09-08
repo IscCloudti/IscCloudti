@@ -1,6 +1,6 @@
 ## Olá, sou Isc Cloud TI 👋
 
-- 🔭 Atuo como DevOps jr, especificamente CI
+- 🔭 Atuo como DevOps jr, na parte de CI
 - 😄 Estudando Python/AWS
 
 <div>
